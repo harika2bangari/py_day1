@@ -1,0 +1,8 @@
+## printing personal details
+print('My name is Harika Bangari')
+print('My father name is Ramu Bangari')
+print('My mother name is Kondamma Bangari')
+print('Iam studying II B.Sc (Data Science) in Aditya Degree College')
+print('My favourite colour is Blue')
+print('My hobbies are reading books and listening to music')
+print('I will regularly read a book before my bed time')
